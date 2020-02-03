@@ -1,0 +1,33 @@
+.content{
+  display:block;
+  width:100%;
+  height: auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.img{
+  position: relative;
+  background-image: url("../images/background.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100vh;
+  background-size:contain;
+}
+
+.center-col{
+  height: 300px;
+  width: 100%;
+  border-style: solid;
+  overflow-y: scroll;
+
+}
+
+.signupbuttons{
+  padding:  20px;
+  text-align:center;
+}
+.RegisterMainButton{
+  height: 250px;
+  width: 250px;
+}
